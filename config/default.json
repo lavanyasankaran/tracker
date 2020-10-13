@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://lava123:lava123@learning.6qswe.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
